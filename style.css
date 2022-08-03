@@ -1,0 +1,37 @@
+body {
+  background-image: url("hand-painted-watercolor-pastel-sky-background_23-2148902771.webp");
+}
+
+div {
+  background-color: rgba(201, 76, 76, 0.3);
+  text-align: center;
+  padding: 30px;
+  margin: 50px;
+}
+
+.url {
+  background-color: rgb(188, 154, 220);
+  padding: 10px 10px;
+  border-radius: 20%;
+
+}
+
+#naz-img {
+  border-radius: 40px;
+  box-shadow: 15px 15px 35px rgba(35, 43, 145, 0.1);
+}
+
+.bolder {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-large;
+  color: rgb(1, 66, 65);
+}
+
+.menu {
+  list-style: none;
+  padding-right: 3%;
+}
+
+a:hover {
+  background-color: yellow;
+}
